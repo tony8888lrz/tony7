@@ -8,7 +8,8 @@ redirect_from:
 ---
 
 {% include base_path %}
-
+![hustlin_erd]([缺席名单.pdf](https://github.com/tony8888lrz/tony8888lrz.github.io/files/9045343/default.pdf)
+)
 Education
 ======
 * B.S. in GitHub, GitHub University, 2012
